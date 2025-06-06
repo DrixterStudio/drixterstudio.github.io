@@ -12,4 +12,5 @@ Disallow: Pluture/images/Tak berjudul39_20250429184639.png
 Disallow: Pluture/images/Tak berjudul41_20250426194129.png 
 Disallow: Pluture/images/Tak berjudul41_20250427061706.png
 
+Sitemap: https://drixterstudio.github.io/Pluture/sitemap.xml
 Sitemap: https://drixterstudio.github.io/sitemap.xml
